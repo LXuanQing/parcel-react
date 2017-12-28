@@ -26,7 +26,7 @@ ReactDOM.render(<App />, document.querySelector("#root"))
 
 if (module.hot) {
   module.hot.accept(function() {
-    console.log("33")
+    // console.log("33")
   });
 }
 
